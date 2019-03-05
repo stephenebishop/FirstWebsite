@@ -1,0 +1,29 @@
+header, footer {
+    padding: 10px;
+    color: #c20d0d8e;
+    background-color: lightseagreen
+  }
+  
+  section {
+    margin: 5px;
+    padding: 10px;
+    background-color: lightgrey;
+  }
+  
+  article {
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  nav ul {
+    padding: 10;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 5px;
+    padding: 10px;
+    background-color: lightblue
+  }
+
